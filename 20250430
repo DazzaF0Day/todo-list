@@ -1,0 +1,45 @@
+🧾 General Tasks
+-Check emails and respond to project-related messages
+-Update task manager (Trello, Asana, Notion, etc.)
+-Attend team/client meetings or stand-ups
+-Track project time and submit timesheets (if needed)
+-Backup or version-control design files
+-Review feedback from previous sessions
+-Stay updated on web design tools and trends
+-Document design decisions for future reference
+-Collaborate with developers, copywriters, or marketers
+-Optimize workflow and file performance (e.g., reduce file size, organize assets)
+
+🧩 Project Preparation
+-Gather client/project requirements (brief, branding guidelines, user personas)
+-Create or review project scope and milestones
+-Research competitors and industry design trends
+-Create a mood board or style guide
+-Select typefaces, color palette, and visual language
+
+🎨 Design File Setup
+-Create artboards or frames for key screen sizes (desktop, tablet, mobile)
+-Set up a design system (component, symbols, styles)
+-Organize layers and naming conventions
+-Define grid systems and layout constraints
+-Set up reusable UI components (buttons, inputs, navs)
+
+📱 UI/UX Design Tasks
+-Design wireframes for each key page/screen
+-Create high-fidelity mockups
+-Ensure responsive design for all breakpoints
+-Prototype user flows (navigation, modals, etc.)
+-Add interactions and animations (if applicable)
+
+✅ Review & Feedback
+-Perform internal QA of design file (spacing, alignments, fonts)
+-Share DF with client/team for feedback
+-Implement feedback and iterate
+-Prepare for developer handoff
+
+🛠️ Developer Handoff
+-Annotate components and specs
+-Export assets (SVGs, PNGs, WebP, etc.)
+-Link the DF in tools like Zeplin, Figma Inspect, or Storybook
+-Provide a style guide or documentation
+-Confirm accessibility considerations (color contrast, alt text, etc.)
