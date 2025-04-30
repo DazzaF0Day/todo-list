@@ -18,19 +18,19 @@
 -Create a mood board or style guide
 -Select typefaces, color palette, and visual language
 
-🎨 Design File Setup
--Create artboards or frames for key screen sizes (desktop, tablet, mobile)
--Set up a design system (component, symbols, styles)
--Organize layers and naming conventions
--Define grid systems and layout constraints
--Set up reusable UI components (buttons, inputs, navs)
-
 📱 UI/UX Design Tasks
 -Design wireframes for each key page/screen
 -Create high-fidelity mockups
 -Ensure responsive design for all breakpoints
 -Prototype user flows (navigation, modals, etc.)
 -Add interactions and animations (if applicable)
+
+🎨 Design File Setup
+-Create artboards or frames for key screen sizes (desktop, tablet, mobile)
+-Set up a design system (component, symbols, styles)
+-Organize layers and naming conventions
+-Define grid systems and layout constraints
+-Set up reusable UI components (buttons, inputs, navs)
 
 ✅ Review & Feedback
 -Perform internal QA of design file (spacing, alignments, fonts)
